@@ -22,7 +22,7 @@ Shine light on the difference between players who came back on day 7 vs those wh
 3. Open ended exploratory analysis:
 Any directions or findings that could be useful to the game team, and could be formed as hypothesis for a future A/B testing.
 
-### BigQuery: [SQL Analysis (Code)](https://github.com/SharifAthar/Netflix-Shows-and-Movies-SQL/blob/main/Netflix_SQL_Analysis.sql)
+### BigQuery: [SQL Analysis (Code)](https://github.com/icymai/sql_game_analytics/blob/main/game_analytics.sql)
 <img width="1440" alt="image" src="https://github.com/icymai/sql_game_analytics/assets/45783587/fd116077-ead0-4591-8b01-a8ddbff0cb12">
 
 1. Transfrom raw data to fact/dimensional tables to reduce unnessary fields and do analysis easier.<br>
